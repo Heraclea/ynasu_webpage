@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'm-line';
+  src: url('Montserrat-Hairline.eot'); /* IE9 Compat Modes */
+  src: url('Montserrat-Hairline.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Montserrat-Hairline.woff') format('woff'), /* Modern Browsers */
+       url('Montserrat-Hairline.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Montserrat-Hairline.svg#1ec624975f362ffc7a87d22144317904') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+

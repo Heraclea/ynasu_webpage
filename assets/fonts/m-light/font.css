@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'm-light';
+  src: url('Montserrat-Light.eot'); /* IE9 Compat Modes */
+  src: url('Montserrat-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Montserrat-Light.woff') format('woff'), /* Modern Browsers */
+       url('Montserrat-Light.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Montserrat-Light.svg#c152625b71562a7bb7b752375273b2d5') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  200;
+}
+
